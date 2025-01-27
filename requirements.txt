@@ -1,0 +1,13 @@
+pandas
+networkx
+matplotlib
+numpy
+tqdm
+scipy
+scikit-learn
+shapely
+geopandas
+osmnx
+folium
+geopy
+seaborn
